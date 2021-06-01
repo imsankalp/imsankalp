@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imsankalp&label=Profile%20views&color=0e75b6&style=flat" alt="imsankalp" /> </p>
 <br>
-- 📫 How to reach me **sankalpkumar.singh60@gmail.com**
+- 📫 How to reach me <a href ="mailto:sankalpkumar.singh60@gmail.com" target = "blank"><img align="center" src="https://image.flaticon.com/icons/png/512/732/732200.png" alt="sankalp" height="40" width="40" /></a>
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
