@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi%20👋,%20I'm%20Sankalp%20Singh&fontSize=90)
+[![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi%20👋,%20I'm%20Sankalp%20Singh&fontSize=70)](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20👋,%20I'm%20Sankalp%20Singh&fontAlign=52&fontSize=64&textBg=false&animation=fadeIn)
 
 <h3 align="center">I am a passionate web developer who loves building some cool web applications.</h3>
 
