@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=6,11,19&height=300&section=header&text=Sankalp%20Singh&fontSize=80&animation=fadeIn&fontAlignY=38&desc=React%20Native%20Engineer&descAlignY=51&descAlign=62" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=6,11,19&height=300&section=header&text=Sankalp%20Singh&fontSize=80&animation=fadeIn&fontAlignY=38&desc=React%20Native%20Engineer&descAlignY=54&descAlign=62" alt="header"/>
 
 <h3 align="center">🚀 Crafting fast, native-feeling mobile apps with modern React Native</h3>
 
